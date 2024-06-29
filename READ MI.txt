@@ -1,0 +1,2 @@
+This is a game called Hang Man.In this game you are guessing a random word.
+It has a lot of bugs and I am trying to fix them.
